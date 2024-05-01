@@ -6,7 +6,7 @@ let number2 = 0;
 
 function sum(number1, number2) {
     const suma = number1 + number2;
-    console.log("La suma es: "+ suma);
+    console.log("El resultado de la suma es: "+ suma);
 }
 
 sum(2, 5);
